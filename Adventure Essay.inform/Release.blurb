@@ -13,8 +13,8 @@ release to "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Es
 storyfile leafname "A Fourth Idea.gblorb"
 storyfile "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.inform\Build\output.ulx" include
 ifiction "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.inform\Metadata.iFiction" include
-cover "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
-picture 1 "C:\Program Files (x86)\Inform 7\Internal\Miscellany\Cover.jpg"
+cover "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.materials\Cover.png"
+picture 1 "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.materials\Cover.png"
 
 ! Placeholder variables
 
@@ -23,16 +23,32 @@ placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2018"
 placeholder [TITLE] = "A Fourth Idea"
 placeholder [AUTHOR] = "pladams9"
-placeholder [BLURB] = "A work of interactive fiction."
+placeholder [BLURB] = "This is a piece of interactive fiction created for Ludum Dare 41. The long passages quoted are from Richard Jeffries' book 'The Story of My Heart' which is in the public domain."
 
 ! Other material to release
 
-status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
-status alternative ||Using 'Release along with a website'&nbsp;<a href=inform:/doc405.html><img border=0 src=inform:/doc_images/help.png></a>||
-status alternative ||Using 'Release along with an interpreter', for in-browser play on your website&nbsp;<a href=inform:/doc406.html><img border=0 src=inform:/doc_images/help.png></a>||
+source public
+auxiliary "C:\Program Files (x86)\Inform 7\Internal\Miscellany\IntroductionToIF.pdf" "Introduction to IF" "--"
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "A Fourth Idea.gblorb.js"
+template path "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.materials\Templates"
+template path "C:\Users\Peter\Documents\Inform\Templates"
+template path "C:\Program Files (x86)\Inform 7\Internal\Templates"
+placeholder [INTERPRETERSCRIPTS] = " "
+interpreter "Quixe" "g"
+base64 "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.inform\Build\output.ulx" to "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.materials\Release\interpreter\A Fourth Idea.gblorb.js"
+
+! Website instructions
+
+template path "C:\Users\Peter\Documents\Inform\Projects\if-fourth-idea\Adventure Essay.materials\Templates"
+template path "C:\Users\Peter\Documents\Inform\Templates"
+template path "C:\Program Files (x86)\Inform 7\Internal\Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line11"><img border=0 src=inform:/doc_images/Reveal.png></a>||
 status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
-status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
 status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
 status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
-status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
 status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||

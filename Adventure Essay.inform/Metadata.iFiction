@@ -9,11 +9,18 @@
             <title>A Fourth Idea</title>
             <author>pladams9</author>
             <headline>An Adventure Essay</headline>
-            <genre>Fiction</genre>
+            <genre>Surreal</genre>
             <firstpublished>2018</firstpublished>
+            <description>This is a piece of interactive fiction created for Ludum Dare 41. The long passages quoted are from Richard Jeffries' book 'The Story of My Heart' which is in the public domain.</description>
             <language>en</language>
             <group>Inform</group>
         </bibliographic>
+        <cover>
+            <format>png</format>
+            <height>960</height>
+            <width>960</width>
+            <description>A layered symbol including a large numeral 4, a triangle, and a monad</description>
+        </cover>
         <releases>
             <attached>
                 <release>
@@ -33,6 +40,7 @@
             <serial>180422</serial>
             <release>1</release>
             <compiler>Inform 7 build 6M62</compiler>
+            <coverpicture>1</coverpicture>
         </glulx>
     </story>
 </ifindex>

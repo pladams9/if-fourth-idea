@@ -1,607 +1,2721 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-7">
+<Skein rootNode="node-1">
   <generator>Windows Inform 7 6M62</generator>
-  <activeNode nodeId="node-446"/>
-  <item nodeId="node-7">
+  <activeNode nodeId="node-306"/>
+  <item nodeId="node-1">
     <command xml:space="preserve">Adventure Essay</command>
     <result xml:space="preserve">A Fourth Idea&#x000A;An Adventure Essay by pladams9&#x000A;Release 1 / Serial number 180422 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;CHAPTER III&#x000A;Three things only have been discovered of that which concerns the inner consciousness since before written history began. Three things only in twelve thousand written, or sculptured, years, and in the dumb, dim time before then. Three ideas the Cavemen primeval wrested from the unknown, the night which is round us still in daylight-the existence of the soul, immortality, the deity. These things found, prayer followed as a sequential result. Since then nothing further has been found in all the twelve thousand years, as if men had been satisfied and had found these to suffice. They do not suffice me. I desire to advance further, and to wrest a fourth, and even still more than a fourth, from the darkness of thought. I want more ideas of soul-life. I am certain that there are more yet to be found.&#x000A;&#x000A;Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">A Fourth Idea&#x000A;An Adventure Essay by pladams9&#x000A;Release 1 / Serial number 180422 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;CHAPTER III&#x000A;Three things only have been discovered of that which concerns the inner consciousness since before written history began. Three things only in twelve thousand written, or sculptured, years, and in the dumb, dim time before then. Three ideas the Cavemen primeval wrested from the unknown, the night which is round us still in daylight-the existence of the soul, immortality, the deity. These things found, prayer followed as a sequential result. Since then nothing further has been found in all the twelve thousand years, as if men had been satisfied and had found these to suffice. They do not suffice me. I desire to advance further, and to wrest a fourth, and even still more than a fourth, from the darkness of thought. I want more ideas of soul-life. I am certain that there are more yet to be found.&#x000A;&#x000A;Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-380"/>
+      <child nodeId="node-2"/>
+      <child nodeId="node-69"/>
+      <child nodeId="node-70"/>
+      <child nodeId="node-76"/>
+      <child nodeId="node-89"/>
+      <child nodeId="node-100"/>
+      <child nodeId="node-129"/>
+      <child nodeId="node-138"/>
+      <child nodeId="node-153"/>
+      <child nodeId="node-155"/>
+      <child nodeId="node-195"/>
     </children>
   </item>
-  <item nodeId="node-380">
+  <item nodeId="node-2">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Hilltop&#x000A;There were grass-grown tumuli on the hills to which of old I used to walk, sit down at the foot of one of them, and think. Some warrior had been interred there in the antehistoric times. The sun of the summer morning shone on the dome of sward, and the air came softly up from the wheat below, the tips of the grasses swayed as it passed sighing faintly, it ceased, and the bees hummed by to the thyme and heathbells. I became absorbed in the glory of the day, the sunshine, the sweet air, the yellowing corn turning from its sappy green to summer's noon of gold, the lark's song like a waterfall in the sky. I felt at that moment that I was like the spirit of the man whose body was interred in the tumulus; I could understand and feel his existence the same as my own. He was as real to me two thousand years after interment as those I had seen in the body. The abstract personality of the dead seemed as existent as thought. As my thought could slip back the twenty centuries in a moment to the forest-days when he hurled the spear, or shot with the bow, hunting the deer, and could return again as swiftly to this moment, so his spirit could endure from then till now, and the time was nothing.&#x000A;&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-381"/>
-      <child nodeId="node-396"/>
-      <child nodeId="node-416"/>
+      <child nodeId="node-3"/>
+      <child nodeId="node-18"/>
+      <child nodeId="node-38"/>
     </children>
   </item>
-  <item nodeId="node-381">
+  <item nodeId="node-3">
     <command xml:space="preserve">PURLOIN shovel</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-382"/>
+      <child nodeId="node-4"/>
     </children>
   </item>
-  <item nodeId="node-382">
+  <item nodeId="node-4">
     <command xml:space="preserve">PURLOIN black</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-383"/>
+      <child nodeId="node-5"/>
     </children>
   </item>
-  <item nodeId="node-383">
+  <item nodeId="node-5">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">(first opening the wall hole)&#x000A;Upon entering the burial mound, you are overcome with a connection to the ancient warrior and with a sense of the meaningless of time. The black orb pulses; you feel yourself freed from the restraints of the present and transported...&#x000A;&#x000A;Ancient Hilltop&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-384"/>
+      <child nodeId="node-6"/>
     </children>
   </item>
-  <item nodeId="node-384">
+  <item nodeId="node-6">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">But you aren't in anything at the moment.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-385"/>
+      <child nodeId="node-7"/>
     </children>
   </item>
-  <item nodeId="node-385">
+  <item nodeId="node-7">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Ancient Hilltop&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-386"/>
+      <child nodeId="node-8"/>
     </children>
   </item>
-  <item nodeId="node-386">
+  <item nodeId="node-8">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-387"/>
+      <child nodeId="node-9"/>
     </children>
   </item>
-  <item nodeId="node-387">
+  <item nodeId="node-9">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Ancient Hilltop&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-388"/>
+      <child nodeId="node-10"/>
     </children>
   </item>
-  <item nodeId="node-388">
+  <item nodeId="node-10">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Ancient Forest&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-389"/>
+      <child nodeId="node-11"/>
     </children>
   </item>
-  <item nodeId="node-389">
+  <item nodeId="node-11">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Ancient Cave&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-390"/>
+      <child nodeId="node-12"/>
     </children>
   </item>
-  <item nodeId="node-390">
+  <item nodeId="node-12">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-391"/>
+      <child nodeId="node-13"/>
     </children>
   </item>
-  <item nodeId="node-391">
+  <item nodeId="node-13">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-392"/>
+      <child nodeId="node-14"/>
     </children>
   </item>
-  <item nodeId="node-392">
+  <item nodeId="node-14">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">Inside the Cave&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-393"/>
+      <child nodeId="node-15"/>
     </children>
   </item>
-  <item nodeId="node-393">
+  <item nodeId="node-15">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Ancient Cave&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-394"/>
+      <child nodeId="node-16"/>
     </children>
   </item>
-  <item nodeId="node-394">
+  <item nodeId="node-16">
     <command xml:space="preserve">gonear Inside the Tumulus</command>
     <result xml:space="preserve">Inside the Tumulus&#x000A;There is no separation-no past; eternity, the Now, is continuous. When all the stars have revolved they only produce Now again. The continuity of Now is for ever. So that it appears to me purely natural, and not super natural, that the soul whose temporary frame was interred in this mound should be existing as I sit on the sward. How infinitely deeper is thought than the million miles of the firmament! The wonder is here, not there; now, not to be, now always. Things that have been miscalled supernatural appear to me simple, more natural than nature, than earth, than sea, or sun. It is beyond telling more natural that I should have a soul than not, that there should be immortality; I think there is much more than immortality. It is matter which is the supernatural, and difficult of under-standing. Why this clod of earth I hold in my hand? Why this water which drops sparkling from my fingers dipped in the brook? Why are they at all? When? How? What for? Matter is beyond understanding, mysterious, impenetrable; I touch it easily, comprehend it, no. Soul, mind-the thought, the idea-is easily understood, it understands itself and is conscious.&#x000A;&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-395"/>
+      <child nodeId="node-17"/>
     </children>
   </item>
-  <item nodeId="node-395">
+  <item nodeId="node-17">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
   </item>
-  <item nodeId="node-396">
+  <item nodeId="node-18">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You want to go into the burial mound? How would you get in?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-397"/>
-      <child nodeId="node-409"/>
+      <child nodeId="node-19"/>
+      <child nodeId="node-31"/>
     </children>
   </item>
-  <item nodeId="node-397">
+  <item nodeId="node-19">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-398"/>
+      <child nodeId="node-20"/>
     </children>
   </item>
-  <item nodeId="node-398">
+  <item nodeId="node-20">
     <command xml:space="preserve">inv</command>
     <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-399"/>
+      <child nodeId="node-21"/>
     </children>
   </item>
-  <item nodeId="node-399">
+  <item nodeId="node-21">
     <command xml:space="preserve">PURLOIN shovel</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-400"/>
+      <child nodeId="node-22"/>
     </children>
   </item>
-  <item nodeId="node-400">
+  <item nodeId="node-22">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You want to go into the burial mound? How would you get in?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-401"/>
+      <child nodeId="node-23"/>
     </children>
   </item>
-  <item nodeId="node-401">
+  <item nodeId="node-23">
     <command xml:space="preserve">dig mound</command>
     <result xml:space="preserve">You dig into the burial mound, and soon there is an opening leading inside.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-402"/>
+      <child nodeId="node-24"/>
     </children>
   </item>
-  <item nodeId="node-402">
+  <item nodeId="node-24">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-403"/>
+      <child nodeId="node-25"/>
     </children>
   </item>
-  <item nodeId="node-403">
+  <item nodeId="node-25">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Inside the Tumulus&#x000A;There is no separation-no past; eternity, the Now, is continuous. When all the stars have revolved they only produce Now again. The continuity of Now is for ever. So that it appears to me purely natural, and not super natural, that the soul whose temporary frame was interred in this mound should be existing as I sit on the sward. How infinitely deeper is thought than the million miles of the firmament! The wonder is here, not there; now, not to be, now always. Things that have been miscalled supernatural appear to me simple, more natural than nature, than earth, than sea, or sun. It is beyond telling more natural that I should have a soul than not, that there should be immortality; I think there is much more than immortality. It is matter which is the supernatural, and difficult of under-standing. Why this clod of earth I hold in my hand? Why this water which drops sparkling from my fingers dipped in the brook? Why are they at all? When? How? What for? Matter is beyond understanding, mysterious, impenetrable; I touch it easily, comprehend it, no. Soul, mind-the thought, the idea-is easily understood, it understands itself and is conscious.&#x000A;&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-404"/>
+      <child nodeId="node-26"/>
     </children>
   </item>
-  <item nodeId="node-404">
+  <item nodeId="node-26">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-405"/>
+      <child nodeId="node-27"/>
     </children>
   </item>
-  <item nodeId="node-405">
+  <item nodeId="node-27">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-406"/>
+      <child nodeId="node-28"/>
     </children>
   </item>
-  <item nodeId="node-406">
+  <item nodeId="node-28">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-407"/>
+      <child nodeId="node-29"/>
     </children>
   </item>
-  <item nodeId="node-407">
+  <item nodeId="node-29">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-408"/>
+      <child nodeId="node-30"/>
     </children>
   </item>
-  <item nodeId="node-408">
+  <item nodeId="node-30">
     <command xml:space="preserve">dig mound</command>
     <result xml:space="preserve">There is already a hole dug there.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
   </item>
-  <item nodeId="node-409">
+  <item nodeId="node-31">
     <command xml:space="preserve">PURLOIN shovel</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-410"/>
+      <child nodeId="node-32"/>
     </children>
   </item>
-  <item nodeId="node-410">
+  <item nodeId="node-32">
     <command xml:space="preserve">dig mound</command>
     <result xml:space="preserve">You dig into the burial mound, and soon there is an opening leading inside.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-411"/>
+      <child nodeId="node-33"/>
     </children>
   </item>
-  <item nodeId="node-411">
+  <item nodeId="node-33">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;&#x000A;Inside the Tumulus&#x000A;There is no separation-no past; eternity, the Now, is continuous. When all the stars have revolved they only produce Now again. The continuity of Now is for ever. So that it appears to me purely natural, and not super natural, that the soul whose temporary frame was interred in this mound should be existing as I sit on the sward. How infinitely deeper is thought than the million miles of the firmament! The wonder is here, not there; now, not to be, now always. Things that have been miscalled supernatural appear to me simple, more natural than nature, than earth, than sea, or sun. It is beyond telling more natural that I should have a soul than not, that there should be immortality; I think there is much more than immortality. It is matter which is the supernatural, and difficult of under-standing. Why this clod of earth I hold in my hand? Why this water which drops sparkling from my fingers dipped in the brook? Why are they at all? When? How? What for? Matter is beyond understanding, mysterious, impenetrable; I touch it easily, comprehend it, no. Soul, mind-the thought, the idea-is easily understood, it understands itself and is conscious.&#x000A;&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-412"/>
+      <child nodeId="node-34"/>
     </children>
   </item>
-  <item nodeId="node-412">
+  <item nodeId="node-34">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Inside the Tumulus&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-413"/>
+      <child nodeId="node-35"/>
     </children>
   </item>
-  <item nodeId="node-413">
+  <item nodeId="node-35">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-414"/>
+      <child nodeId="node-36"/>
     </children>
   </item>
-  <item nodeId="node-414">
+  <item nodeId="node-36">
     <command xml:space="preserve">PURLOIN black orb</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-415"/>
+      <child nodeId="node-37"/>
     </children>
   </item>
-  <item nodeId="node-415">
+  <item nodeId="node-37">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;Upon entering the burial mound, you are overcome with a connection to the ancient warrior and with a sense of the meaningless of time. The black orb pulses; you feel yourself freed from the restraints of the present and transported...&#x000A;&#x000A;Ancient Hilltop&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>YES</changed>
   </item>
-  <item nodeId="node-416">
+  <item nodeId="node-38">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Brook&#x000A;You are next to a brook of water.&#x000A;&#x000A;There are hills both to the north and northwest.&#x000A;To the east, the brook flows down to the seashore.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-417"/>
+      <child nodeId="node-39"/>
     </children>
   </item>
-  <item nodeId="node-417">
+  <item nodeId="node-39">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Seashore&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-418"/>
+      <child nodeId="node-40"/>
     </children>
   </item>
-  <item nodeId="node-418">
+  <item nodeId="node-40">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">(first opening the boathouse door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-419"/>
+      <child nodeId="node-41"/>
     </children>
   </item>
-  <item nodeId="node-419">
+  <item nodeId="node-41">
     <command xml:space="preserve">PURLOIN boathouse key</command>
     <result xml:space="preserve">There seems to be no such object anywhere in the model world.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-420"/>
+      <child nodeId="node-42"/>
     </children>
   </item>
-  <item nodeId="node-420">
+  <item nodeId="node-42">
     <command xml:space="preserve">PURLOIN second key</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-421"/>
+      <child nodeId="node-43"/>
     </children>
   </item>
-  <item nodeId="node-421">
+  <item nodeId="node-43">
     <command xml:space="preserve">inv</command>
     <result xml:space="preserve">You are carrying:&#x000A;  a key&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-422"/>
+      <child nodeId="node-44"/>
     </children>
   </item>
-  <item nodeId="node-422">
+  <item nodeId="node-44">
     <command xml:space="preserve">look key</command>
     <result xml:space="preserve">You see nothing special about the key.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-423"/>
+      <child nodeId="node-45"/>
     </children>
   </item>
-  <item nodeId="node-423">
+  <item nodeId="node-45">
     <command xml:space="preserve">unlock door with key</command>
     <result xml:space="preserve">You unlock the boathouse door.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-424"/>
+      <child nodeId="node-46"/>
     </children>
   </item>
-  <item nodeId="node-424">
+  <item nodeId="node-46">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">(first opening the boathouse door)&#x000A;&#x000A;Inside the Boathouse&#x000A;You are inside the boathouse.&#x000A;&#x000A;You can see a box of matches here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-425"/>
+      <child nodeId="node-47"/>
     </children>
   </item>
-  <item nodeId="node-425">
+  <item nodeId="node-47">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Seashore&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-426"/>
+      <child nodeId="node-48"/>
     </children>
   </item>
-  <item nodeId="node-426">
+  <item nodeId="node-48">
     <command xml:space="preserve">PURLOIN white orb</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-427"/>
+      <child nodeId="node-49"/>
     </children>
   </item>
-  <item nodeId="node-427">
+  <item nodeId="node-49">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">Inside the Boathouse&#x000A;You enter the boathouse. Here within earshot of the ocean waves, you feel the layers of Self begin to fall away, as if you were beginning to dissolve into the salt air. A mild tone begins to emanate from the white orb, and you feel a peace come over you. You step into the boat and push out into the water.&#x000A;&#x000A;Ocean of Mind&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>YES</changed>
     <children>
-      <child nodeId="node-428"/>
+      <child nodeId="node-50"/>
     </children>
   </item>
-  <item nodeId="node-428">
+  <item nodeId="node-50">
     <command xml:space="preserve">go near TumulusHill</command>
     <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-429"/>
+      <child nodeId="node-51"/>
     </children>
   </item>
-  <item nodeId="node-429">
+  <item nodeId="node-51">
     <command xml:space="preserve">go near Tumulus</command>
     <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-430"/>
+      <child nodeId="node-52"/>
     </children>
   </item>
-  <item nodeId="node-430">
+  <item nodeId="node-52">
     <command xml:space="preserve">gonear TumulusHill</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-431"/>
+      <child nodeId="node-53"/>
     </children>
   </item>
-  <item nodeId="node-431">
+  <item nodeId="node-53">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-432"/>
+      <child nodeId="node-54"/>
     </children>
   </item>
-  <item nodeId="node-432">
+  <item nodeId="node-54">
     <command xml:space="preserve">inv</command>
     <result xml:space="preserve">You are carrying:&#x000A;  a white orb&#x000A;  a key&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-433"/>
+      <child nodeId="node-55"/>
     </children>
   </item>
-  <item nodeId="node-433">
+  <item nodeId="node-55">
     <command xml:space="preserve">PURLOIN black orb</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-434"/>
+      <child nodeId="node-56"/>
     </children>
   </item>
-  <item nodeId="node-434">
+  <item nodeId="node-56">
     <command xml:space="preserve">inv</command>
     <result xml:space="preserve">You are carrying:&#x000A;  a black orb&#x000A;  a white orb&#x000A;  a key&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-435"/>
+      <child nodeId="node-57"/>
     </children>
   </item>
-  <item nodeId="node-435">
+  <item nodeId="node-57">
     <command xml:space="preserve">PURLOIN shovel</command>
     <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-436"/>
+      <child nodeId="node-58"/>
     </children>
   </item>
-  <item nodeId="node-436">
+  <item nodeId="node-58">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You want to go into the burial mound? How would you get in?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-437"/>
+      <child nodeId="node-59"/>
     </children>
   </item>
-  <item nodeId="node-437">
+  <item nodeId="node-59">
     <command xml:space="preserve">dig mound</command>
     <result xml:space="preserve">You dig into the burial mound, and soon there is an opening leading inside.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-438"/>
+      <child nodeId="node-60"/>
     </children>
   </item>
-  <item nodeId="node-438">
+  <item nodeId="node-60">
     <command xml:space="preserve">drop orbs</command>
     <result xml:space="preserve">black orb: Dropped.&#x000A;white orb: Dropped.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-439"/>
+      <child nodeId="node-61"/>
     </children>
   </item>
-  <item nodeId="node-439">
+  <item nodeId="node-61">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;&#x000A;Inside the Tumulus&#x000A;There is no separation-no past; eternity, the Now, is continuous. When all the stars have revolved they only produce Now again. The continuity of Now is for ever. So that it appears to me purely natural, and not super natural, that the soul whose temporary frame was interred in this mound should be existing as I sit on the sward. How infinitely deeper is thought than the million miles of the firmament! The wonder is here, not there; now, not to be, now always. Things that have been miscalled supernatural appear to me simple, more natural than nature, than earth, than sea, or sun. It is beyond telling more natural that I should have a soul than not, that there should be immortality; I think there is much more than immortality. It is matter which is the supernatural, and difficult of under-standing. Why this clod of earth I hold in my hand? Why this water which drops sparkling from my fingers dipped in the brook? Why are they at all? When? How? What for? Matter is beyond understanding, mysterious, impenetrable; I touch it easily, comprehend it, no. Soul, mind-the thought, the idea-is easily understood, it understands itself and is conscious.&#x000A;&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-440"/>
+      <child nodeId="node-62"/>
     </children>
   </item>
-  <item nodeId="node-440">
+  <item nodeId="node-62">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Inside the Tumulus&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-441"/>
+      <child nodeId="node-63"/>
     </children>
   </item>
-  <item nodeId="node-441">
+  <item nodeId="node-63">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;You can see a white orb and a black orb here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-442"/>
+      <child nodeId="node-64"/>
     </children>
   </item>
-  <item nodeId="node-442">
+  <item nodeId="node-64">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;&#x000A;Inside the Tumulus&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-443"/>
+      <child nodeId="node-65"/>
     </children>
   </item>
-  <item nodeId="node-443">
+  <item nodeId="node-65">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;You can see a white orb and a black orb here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-444"/>
+      <child nodeId="node-66"/>
     </children>
   </item>
-  <item nodeId="node-444">
+  <item nodeId="node-66">
     <command xml:space="preserve">take black orb</command>
     <result xml:space="preserve">As you reach for the black orb, the white one glows and then dissolves.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-445"/>
+      <child nodeId="node-67"/>
     </children>
   </item>
-  <item nodeId="node-445">
+  <item nodeId="node-67">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
-      <child nodeId="node-446"/>
+      <child nodeId="node-68"/>
     </children>
   </item>
-  <item nodeId="node-446">
+  <item nodeId="node-68">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;Upon entering the burial mound, you are overcome with a connection to the ancient warrior and with a sense of the meaningless of time. The black orb pulses; you feel yourself freed from the restraints of the present and transported...&#x000A;&#x000A;Ancient Hilltop&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-69">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-70">
+    <command xml:space="preserve">gonear ancient hilltop</command>
+    <result xml:space="preserve">Ancient Hilltop&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-71"/>
+    </children>
+  </item>
+  <item nodeId="node-71">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Ancient Forest&#x000A;There is a path here going east and west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-72"/>
+    </children>
+  </item>
+  <item nodeId="node-72">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Ancient Hilltop&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-73"/>
+    </children>
+  </item>
+  <item nodeId="node-73">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Ancient Forest&#x000A;There is a path here going east and west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-74"/>
+    </children>
+  </item>
+  <item nodeId="node-74">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">The path quickly disappears among the overgrowth, and you find yourself racing through the forest blindly. Then you see the light of a clearing up ahead. You burst out into the open, sure that you will not be able to find your way back through the forest.&#x000A;&#x000A;Ancient Hilltop&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-75"/>
+    </children>
+  </item>
+  <item nodeId="node-75">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-76">
+    <command xml:space="preserve">gonear seashore</command>
+    <result xml:space="preserve">Seashore&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-77"/>
+    </children>
+  </item>
+  <item nodeId="node-77">
+    <command xml:space="preserve">PURLOIN white orb</command>
+    <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-78"/>
+    </children>
+  </item>
+  <item nodeId="node-78">
+    <command xml:space="preserve">PURLOIN second key</command>
+    <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-79"/>
+    </children>
+  </item>
+  <item nodeId="node-79">
+    <command xml:space="preserve">use key on door</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-80"/>
+    </children>
+  </item>
+  <item nodeId="node-80">
+    <command xml:space="preserve">unlock door with key</command>
+    <result xml:space="preserve">You unlock the boathouse door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-81"/>
+    </children>
+  </item>
+  <item nodeId="node-81">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">(first opening the boathouse door)&#x000A;&#x000A;Inside the Boathouse&#x000A;You enter the boathouse. Here within earshot of the ocean waves, you feel the layers of Self begin to fall away, as if you were beginning to dissolve into the salt air. A mild tone begins to emanate from the white orb, and you feel a peace come over you. You step into the boat and push out into the water.&#x000A;&#x000A;Ocean of Mind&#x000A;There is an immense ocean over which the mind can sail, upon which the vessel of thought has not yet been launched. I hope to launch it. The mind of so many thousand years has worked round and round inside the circle of these three ideas as a boat on an inland lake. Let us haul it over the belt of land, launch on the ocean, and sail outwards.&#x000A;&#x000A;You are floating in a boat in a vast ocean. The waves rock gently.&#x000A;&#x000A;You have no oars, so there is no place to go. You can do nothing but wait.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-82"/>
+    </children>
+  </item>
+  <item nodeId="node-82">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Ocean of Mind&#x000A;You are floating in a boat in a vast ocean. The waves rock gently.&#x000A;&#x000A;You have no oars, so there is no place to go. You can do nothing but wait.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-83"/>
+    </children>
+  </item>
+  <item nodeId="node-83">
+    <command xml:space="preserve">what</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-84"/>
+    </children>
+  </item>
+  <item nodeId="node-84">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">As I move about in the sunshine I feel in the midst of the supernatural: in the midst of immortal things. It is impossible to wrest the mind down to the same laws that rule pieces of timber, water, or earth. They do not control the soul, however rigidly they may bind matter. So full am I always of a sense of the immortality now at this moment round about me, that it would not surprise me in the least if a circumstance outside physical experience occurred. It would seem to me quite natural. Give the soul the power it conceives, and there would be nothing wonderful in it.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-85"/>
+    </children>
+  </item>
+  <item nodeId="node-85">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">I can see nothing astonishing in what are called miracles. Only those who are mesmerised by matter can find a difficulty in such events. I am aware that the evidence for miracles is logically and historically untrustworthy; I am not defending recorded miracles. My point is that in principle I see no reason at all why they should not take place this day. I do not even say that there are or ever have been miracles, but I maintain that they would be perfectly natural. The wonder rather is that they do not happen frequently. Consider the limitless conceptions of the soul: let it possess but the power to realise those conceptions for one hour, and how little, how trifling would be the helping of the injured or the sick to regain health and happiness-merely to think it. A soul-work would require but a thought. Soul-work is an expression better suited to my meaning than "miracle," a term like others into which a special sense has been infused.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-86"/>
+    </children>
+  </item>
+  <item nodeId="node-86">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Ocean of Mind&#x000A;You are floating in a boat in a vast ocean. The waves rock gently.&#x000A;&#x000A;You have no oars, so there is no place to go. You can do nothing but wait.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-87"/>
+    </children>
+  </item>
+  <item nodeId="node-87">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a key&#x000A;  a white orb&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-88"/>
+    </children>
+  </item>
+  <item nodeId="node-88">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time and Self seem to slip away, and when they seem almost to be gone, a strip of land looms before you. Your boat gently washes to shore.&#x000A;&#x000A;Eternity's Shore&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-89">
+    <command xml:space="preserve">PURLOIN all</command>
+    <result xml:space="preserve">(Hills)&#x000A;[Can't move Hills: it would contain itself.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-90"/>
+    </children>
+  </item>
+  <item nodeId="node-90">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-91"/>
+    </children>
+  </item>
+  <item nodeId="node-91">
+    <command xml:space="preserve">PURLOIN shovel, matches</command>
+    <result xml:space="preserve">[Purloined.]&#x000A;[Purloined.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-92"/>
+    </children>
+  </item>
+  <item nodeId="node-92">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a box of matches&#x000A;  a shovel&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-93"/>
+    </children>
+  </item>
+  <item nodeId="node-93">
+    <command xml:space="preserve">PURLOIN keys</command>
+    <result xml:space="preserve">There seems to be no such object anywhere in the model world.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-94"/>
+    </children>
+  </item>
+  <item nodeId="node-94">
+    <command xml:space="preserve">PURLOIN first key, second key, white orb</command>
+    <result xml:space="preserve">[Purloined.]&#x000A;[Purloined.]&#x000A;[Purloined.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-95"/>
+    </children>
+  </item>
+  <item nodeId="node-95">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a white orb&#x000A;  a key&#x000A;  a key&#x000A;  a box of matches&#x000A;  a shovel&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-96"/>
+    </children>
+  </item>
+  <item nodeId="node-96">
+    <command xml:space="preserve">gonear seashore</command>
+    <result xml:space="preserve">Seashore&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-97"/>
+    </children>
+  </item>
+  <item nodeId="node-97">
+    <command xml:space="preserve">unlock door with second key</command>
+    <result xml:space="preserve">You unlock the boathouse door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-98"/>
+    </children>
+  </item>
+  <item nodeId="node-98">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">(first opening the boathouse door)&#x000A;&#x000A;Inside the Boathouse&#x000A;You enter the boathouse. Here within earshot of the ocean waves, you feel the layers of Self begin to fall away, as if you were beginning to dissolve into the salt air. A mild tone begins to emanate from the white orb, and you feel a peace come over you. You step into the boat and push out into the water, leaving everything but the orb behind.&#x000A;&#x000A;Ocean of Mind&#x000A;There is an immense ocean over which the mind can sail, upon which the vessel of thought has not yet been launched. I hope to launch it. The mind of so many thousand years has worked round and round inside the circle of these three ideas as a boat on an inland lake. Let us haul it over the belt of land, launch on the ocean, and sail outwards.&#x000A;&#x000A;You are floating in a boat in a vast ocean. The waves rock gently.&#x000A;&#x000A;You have no oars, so there is no place to go. You can do nothing but wait.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-99"/>
+    </children>
+  </item>
+  <item nodeId="node-99">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a white orb&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-100">
+    <command xml:space="preserve">PURLOIN white orb</command>
+    <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-101"/>
+    </children>
+  </item>
+  <item nodeId="node-101">
+    <command xml:space="preserve">gonear Ancient Cave</command>
+    <result xml:space="preserve">Ancient Cave&#x000A;Twelve thousand years since the Caveman stood at the mouth of his cavern and gazed out at the night and the stars. He looked again and saw the sun rise beyond the sea. He reposed in the noontide heat under the shade of the trees, he closed his eyes and looked into himself. He was face to face with the earth, the sun, the night; face to face with himself.&#x000A;&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-102"/>
+      <child nodeId="node-115"/>
+    </children>
+  </item>
+  <item nodeId="node-102">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Ancient Cave&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-103"/>
+    </children>
+  </item>
+  <item nodeId="node-103">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-104"/>
+    </children>
+  </item>
+  <item nodeId="node-104">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-105"/>
+    </children>
+  </item>
+  <item nodeId="node-105">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-106"/>
+    </children>
+  </item>
+  <item nodeId="node-106">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-107"/>
+    </children>
+  </item>
+  <item nodeId="node-107">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">But you aren't in anything at the moment.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-108"/>
+    </children>
+  </item>
+  <item nodeId="node-108">
+    <command xml:space="preserve">up</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-109"/>
+    </children>
+  </item>
+  <item nodeId="node-109">
+    <command xml:space="preserve">down</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-110"/>
+    </children>
+  </item>
+  <item nodeId="node-110">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;There was nothing between; no wall of written tradition; no built up system of culture-his naked mind was confronted by naked earth. He made three idea-discoveries, wresting them from the unknown; the existence of his soul, immortality, the deity. Now, to-day, as I write, I stand in exactly the same position as the Caveman. Written tradition, systems of culture, modes of thought, have for me no existence. If ever they took any hold of my mind it must have been very slight; they have long ago been erased.&#x000A;&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-111"/>
+    </children>
+  </item>
+  <item nodeId="node-111">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a white orb&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-112"/>
+    </children>
+  </item>
+  <item nodeId="node-112">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Ancient Cave&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-113"/>
+    </children>
+  </item>
+  <item nodeId="node-113">
+    <command xml:space="preserve">go into cave</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-114"/>
+    </children>
+  </item>
+  <item nodeId="node-114">
+    <command xml:space="preserve">look cave</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-115">
+    <command xml:space="preserve">go into cave</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;There was nothing between; no wall of written tradition; no built up system of culture-his naked mind was confronted by naked earth. He made three idea-discoveries, wresting them from the unknown; the existence of his soul, immortality, the deity. Now, to-day, as I write, I stand in exactly the same position as the Caveman. Written tradition, systems of culture, modes of thought, have for me no existence. If ever they took any hold of my mind it must have been very slight; they have long ago been erased.&#x000A;&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-116"/>
+    </children>
+  </item>
+  <item nodeId="node-116">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-117"/>
+    </children>
+  </item>
+  <item nodeId="node-117">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Ancient Cave&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-118"/>
+    </children>
+  </item>
+  <item nodeId="node-118">
+    <command xml:space="preserve">enter cave</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-119"/>
+    </children>
+  </item>
+  <item nodeId="node-119">
+    <command xml:space="preserve">leave cave</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-120"/>
+    </children>
+  </item>
+  <item nodeId="node-120">
+    <command xml:space="preserve">exit cave</command>
+    <result xml:space="preserve">I only understood you as far as wanting to exit.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-121"/>
+    </children>
+  </item>
+  <item nodeId="node-121">
+    <command xml:space="preserve">exit mouth</command>
+    <result xml:space="preserve">I only understood you as far as wanting to exit.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-122"/>
+    </children>
+  </item>
+  <item nodeId="node-122">
+    <command xml:space="preserve">drop orb in fire</command>
+    <result xml:space="preserve">You drop the orb into the fire. It carries with it the last of whatever Self you possess and whatever attachments possess you. You are naked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-123"/>
+    </children>
+  </item>
+  <item nodeId="node-123">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-124"/>
+    </children>
+  </item>
+  <item nodeId="node-124">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a white orb&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-125"/>
+    </children>
+  </item>
+  <item nodeId="node-125">
+    <command xml:space="preserve">look fire</command>
+    <result xml:space="preserve">You see nothing special about the campfire.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-126"/>
+    </children>
+  </item>
+  <item nodeId="node-126">
+    <command xml:space="preserve">drop white orb</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-127"/>
+    </children>
+  </item>
+  <item nodeId="node-127">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-128"/>
+    </children>
+  </item>
+  <item nodeId="node-128">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">*** You step out of the mouth of the cave...&#x000A;&#x000A;From earth and sea and sun, from night, the stars, from day, the trees, the hills, from my own soul-from these I think. I stand this moment at the mouth of the ancient cave, face to face with nature, face to face with the supernatural, with myself. My naked mind confronts the unknown. I see as clearly as the noonday that this is not all; I see other and higher conditions than existence; I see not only the existence of the soul, immortality, but, in addition, I realise a soul-life illimitable; I realise the existence of a cosmos of thought; I realise the existence of an inexpressible entity infinitely higher than deity. I strive to give utterance to a Fourth Idea. The very idea that there is another idea is something gained. The three found by the Cavemen are but stepping-stones: first links of an endless chain. At the mouth of the ancient cave, face to face with the unknown, they prayed. Prone in heart to-day I pray, Give me the deepest soul-life. ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-129">
+    <command xml:space="preserve">go near ancient cave</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-130"/>
+    </children>
+  </item>
+  <item nodeId="node-130">
+    <command xml:space="preserve">gonear ancient cave</command>
+    <result xml:space="preserve">Ancient Cave&#x000A;Twelve thousand years since the Caveman stood at the mouth of his cavern and gazed out at the night and the stars. He looked again and saw the sun rise beyond the sea. He reposed in the noontide heat under the shade of the trees, he closed his eyes and looked into himself. He was face to face with the earth, the sun, the night; face to face with himself.&#x000A;&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-131"/>
+    </children>
+  </item>
+  <item nodeId="node-131">
+    <command xml:space="preserve">PURLOIN white orb</command>
+    <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-132"/>
+    </children>
+  </item>
+  <item nodeId="node-132">
+    <command xml:space="preserve">go into cave</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;There was nothing between; no wall of written tradition; no built up system of culture-his naked mind was confronted by naked earth. He made three idea-discoveries, wresting them from the unknown; the existence of his soul, immortality, the deity. Now, to-day, as I write, I stand in exactly the same position as the Caveman. Written tradition, systems of culture, modes of thought, have for me no existence. If ever they took any hold of my mind it must have been very slight; they have long ago been erased.&#x000A;&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-133"/>
+    </children>
+  </item>
+  <item nodeId="node-133">
+    <command xml:space="preserve">leave cave</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-134"/>
+    </children>
+  </item>
+  <item nodeId="node-134">
+    <command xml:space="preserve">exit cave</command>
+    <result xml:space="preserve">I only understood you as far as wanting to exit.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-135"/>
+    </children>
+  </item>
+  <item nodeId="node-135">
+    <command xml:space="preserve">exit cave mouth</command>
+    <result xml:space="preserve">I only understood you as far as wanting to exit.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-136"/>
+    </children>
+  </item>
+  <item nodeId="node-136">
+    <command xml:space="preserve">leave cave mouth</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-137"/>
+    </children>
+  </item>
+  <item nodeId="node-137">
+    <command xml:space="preserve">look at cave</command>
+    <result xml:space="preserve">It is a wide open cave mouth. You can see smoke and a flicker of light coming from inside.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-138">
+    <command xml:space="preserve">gonear Ancient Cave</command>
+    <result xml:space="preserve">Ancient Cave&#x000A;Twelve thousand years since the Caveman stood at the mouth of his cavern and gazed out at the night and the stars. He looked again and saw the sun rise beyond the sea. He reposed in the noontide heat under the shade of the trees, he closed his eyes and looked into himself. He was face to face with the earth, the sun, the night; face to face with himself.&#x000A;&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-139"/>
+    </children>
+  </item>
+  <item nodeId="node-139">
+    <command xml:space="preserve">PURLOIN white orb</command>
+    <result xml:space="preserve">[Purloined.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-140"/>
+    </children>
+  </item>
+  <item nodeId="node-140">
+    <command xml:space="preserve">go into cave</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;There was nothing between; no wall of written tradition; no built up system of culture-his naked mind was confronted by naked earth. He made three idea-discoveries, wresting them from the unknown; the existence of his soul, immortality, the deity. Now, to-day, as I write, I stand in exactly the same position as the Caveman. Written tradition, systems of culture, modes of thought, have for me no existence. If ever they took any hold of my mind it must have been very slight; they have long ago been erased.&#x000A;&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-141"/>
+      <child nodeId="node-143"/>
+    </children>
+  </item>
+  <item nodeId="node-141">
+    <command xml:space="preserve">drop white orb in fire</command>
+    <result xml:space="preserve">You drop the orb into the fire. It carries with it the last of whatever Self you possess and whatever attachments possess you. You are naked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-142"/>
+    </children>
+  </item>
+  <item nodeId="node-142">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">You step out of the mouth of the cave...&#x000A;&#x000A;From earth and sea and sun, from night, the stars, from day, the trees, the hills, from my own soul-from these I think. I stand this moment at the mouth of the ancient cave, face to face with nature, face to face with the supernatural, with myself. My naked mind confronts the unknown. I see as clearly as the noonday that this is not all; I see other and higher conditions than existence; I see not only the existence of the soul, immortality, but, in addition, I realise a soul-life illimitable; I realise the existence of a cosmos of thought; I realise the existence of an inexpressible entity infinitely higher than deity. I strive to give utterance to a Fourth Idea. The very idea that there is another idea is something gained. The three found by the Cavemen are but stepping-stones: first links of an endless chain. At the mouth of the ancient cave, face to face with the unknown, they prayed. Prone in heart to-day I pray, Give me the deepest soul-life.&#x000A;&#x000A;&#x000A;&#x000A;    *** IT IS COMPLETE. ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+  </item>
+  <item nodeId="node-143">
+    <command xml:space="preserve">drop orb</command>
+    <result xml:space="preserve">You feel compelled to keep it.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-144"/>
+    </children>
+  </item>
+  <item nodeId="node-144">
+    <command xml:space="preserve">drop orb in fire</command>
+    <result xml:space="preserve">You drop the orb into the fire. It carries with it the last of whatever Self you possess and whatever attachments possess you. You are naked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-145"/>
+    </children>
+  </item>
+  <item nodeId="node-145">
+    <command xml:space="preserve">look fire</command>
+    <result xml:space="preserve">You see nothing special about the campfire.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-146"/>
+    </children>
+  </item>
+  <item nodeId="node-146">
+    <command xml:space="preserve">leave cave</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-147"/>
+    </children>
+  </item>
+  <item nodeId="node-147">
+    <command xml:space="preserve">look cave</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-148"/>
+    </children>
+  </item>
+  <item nodeId="node-148">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">You step out of the mouth of the cave...&#x000A;&#x000A;From earth and sea and sun, from night, the stars, from day, the trees, the hills, from my own soul-from these I think. I stand this moment at the mouth of the ancient cave, face to face with nature, face to face with the supernatural, with myself. My naked mind confronts the unknown. I see as clearly as the noonday that this is not all; I see other and higher conditions than existence; I see not only the existence of the soul, immortality, but, in addition, I realise a soul-life illimitable; I realise the existence of a cosmos of thought; I realise the existence of an inexpressible entity infinitely higher than deity. I strive to give utterance to a Fourth Idea. The very idea that there is another idea is something gained. The three found by the Cavemen are but stepping-stones: first links of an endless chain. At the mouth of the ancient cave, face to face with the unknown, they prayed. Prone in heart to-day I pray, Give me the deepest soul-life.&#x000A;&#x000A;&#x000A;&#x000A;    *** IT IS COMPLETE. ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-149"/>
+    </children>
+  </item>
+  <item nodeId="node-149">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;[Previous turn undone.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-150"/>
+    </children>
+  </item>
+  <item nodeId="node-150">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-151"/>
+    </children>
+  </item>
+  <item nodeId="node-151">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-152"/>
+    </children>
+  </item>
+  <item nodeId="node-152">
+    <command xml:space="preserve">leave cave</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-153">
+    <command xml:space="preserve">look at hills</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-154"/>
+    </children>
+  </item>
+  <item nodeId="node-154">
+    <command xml:space="preserve">look hills</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-155">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Woods&#x000A;For two thousand years brown autumn dwelt in these woods; the rime of winter whitened the beech clump on the ridge; again the buds came on the wind-blown hawthorn bushes, and in the evening the broad constellation of Orion covered the east. The world turns and now summer comes again.&#x000A;&#x000A;You are in a small forest at the foot of the hills.&#x000A;&#x000A;A path here goes east and west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-156"/>
+    </children>
+  </item>
+  <item nodeId="node-156">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Garden&#x000A;It happened once that a man was drowned while bathing, and his body was placed in an outhouse near the garden. I passed the outhouse continually, sometimes on purpose to think about it&#x2026;&#x000A;&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;There is a shovel leaning against the outhouse.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-157"/>
+    </children>
+  </item>
+  <item nodeId="node-157">
+    <command xml:space="preserve">take shovel</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-158"/>
+    </children>
+  </item>
+  <item nodeId="node-158">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">(first opening the outhouse door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-159"/>
+    </children>
+  </item>
+  <item nodeId="node-159">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Garden&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-160"/>
+    </children>
+  </item>
+  <item nodeId="node-160">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Cottage&#x000A;You are standing at the back of a small, brick-faced cottage. It is flanked on either side by a small brick wall, and you can see a lane on the other side. The door to the cottage is open.&#x000A;&#x000A;There is a garden to the south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-161"/>
+    </children>
+  </item>
+  <item nodeId="node-161">
+    <command xml:space="preserve">look lane</command>
+    <result xml:space="preserve">You can see a little lane on the other side of the wall.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-162"/>
+    </children>
+  </item>
+  <item nodeId="node-162">
+    <command xml:space="preserve">look window</command>
+    <result xml:space="preserve">You can see people moving around through the windows.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-163"/>
+    </children>
+  </item>
+  <item nodeId="node-163">
+    <command xml:space="preserve">look house</command>
+    <result xml:space="preserve">It is a small, brick building. Flowering vines climb the corners of the windows. The back door is open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-164"/>
+    </children>
+  </item>
+  <item nodeId="node-164">
+    <command xml:space="preserve">look cottage</command>
+    <result xml:space="preserve">It is a small, brick building. Flowering vines climb the corners of the windows. The back door is open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-165"/>
+    </children>
+  </item>
+  <item nodeId="node-165">
+    <command xml:space="preserve">look door</command>
+    <result xml:space="preserve">It is a simple wooden door, painting a pale blue. A paned window is set into the upper half of the door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-166"/>
+    </children>
+  </item>
+  <item nodeId="node-166">
+    <command xml:space="preserve">go inside</command>
+    <result xml:space="preserve">Inside the Cottage&#x000A;You are inside the cottage, in the kitchen. People in black attire are milling about with finger foods and cups of juice.&#x000A;&#x000A;You can see a table (on which is a key) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-167"/>
+    </children>
+  </item>
+  <item nodeId="node-167">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-168"/>
+    </children>
+  </item>
+  <item nodeId="node-168">
+    <command xml:space="preserve">look people</command>
+    <result xml:space="preserve">These people look sad and bored. Mostly sad. They are all wearing black clothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-169"/>
+    </children>
+  </item>
+  <item nodeId="node-169">
+    <command xml:space="preserve">look kitchen</command>
+    <result xml:space="preserve">It is a quaint little kitchen. It might be cozy for a retired couple - it's a bit crowded right now though.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-170"/>
+    </children>
+  </item>
+  <item nodeId="node-170">
+    <command xml:space="preserve">look cottage</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-171"/>
+    </children>
+  </item>
+  <item nodeId="node-171">
+    <command xml:space="preserve">look food</command>
+    <result xml:space="preserve">It's just your average funeral fare.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-172"/>
+    </children>
+  </item>
+  <item nodeId="node-172">
+    <command xml:space="preserve">look drink</command>
+    <result xml:space="preserve">It's just your average funeral fare.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-173"/>
+    </children>
+  </item>
+  <item nodeId="node-173">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Cottage&#x000A;You are standing at the back of a small, brick-faced cottage. It is flanked on either side by a small brick wall, and you can see a lane on the other side. The door to the cottage is open.&#x000A;&#x000A;There is a garden to the south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-174"/>
+    </children>
+  </item>
+  <item nodeId="node-174">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Garden&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-175"/>
+    </children>
+  </item>
+  <item nodeId="node-175">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  the outhouse key&#x000A;  a shovel&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-176"/>
+    </children>
+  </item>
+  <item nodeId="node-176">
+    <command xml:space="preserve">look key</command>
+    <result xml:space="preserve">You see nothing special about the outhouse key.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-177"/>
+    </children>
+  </item>
+  <item nodeId="node-177">
+    <command xml:space="preserve">unlock door with key</command>
+    <result xml:space="preserve">You unlock the outhouse door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-178"/>
+    </children>
+  </item>
+  <item nodeId="node-178">
+    <command xml:space="preserve">go in</command>
+    <result xml:space="preserve">(first opening the outhouse door)&#x000A;&#x000A;Inside the Outhouse&#x000A;It's an outhouse. The only thing worth noting is the dead body propped up in the corner. The smell is pretty bad, but it's not clear what the source is.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-179"/>
+    </children>
+  </item>
+  <item nodeId="node-179">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Garden&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-180"/>
+    </children>
+  </item>
+  <item nodeId="node-180">
+    <command xml:space="preserve">take shovel</command>
+    <result xml:space="preserve">You already have that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-181"/>
+    </children>
+  </item>
+  <item nodeId="node-181">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Garden&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-182"/>
+    </children>
+  </item>
+  <item nodeId="node-182">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">Inside the Outhouse&#x000A;It's an outhouse. The only thing worth noting is the dead body propped up in the corner. The smell is pretty bad, but it's not clear what the source is.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-183"/>
+    </children>
+  </item>
+  <item nodeId="node-183">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">(the key)&#x000A;You gingerly remove the key from the dead man's pocket.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-184"/>
+    </children>
+  </item>
+  <item nodeId="node-184">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">As you walk out of the outhouse, several men in suits push past you. They hoist the body of the man up and carry him out to a casket waiting in the garden. You look up and realize that all the people from the house are outside now, watching. The casket is shut and brought up to the men's shoulders. They walk back toward the cottage; everyone else follows. Then they are gone.&#x000A;&#x000A;Garden&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-185"/>
+    </children>
+  </item>
+  <item nodeId="node-185">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">Inside the Outhouse&#x000A;It's an outhouse. The smell is pretty bad, but it's not clear what the source is.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-186"/>
+    </children>
+  </item>
+  <item nodeId="node-186">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">As you walk out of the outhouse, several men in suits push past you. They hoist the body of the man up and carry him out to a casket waiting in the garden. You look up and realize that all the people from the house are outside now, watching. The casket is shut and brought up to the men's shoulders. They walk back toward the cottage; everyone else follows. Then they are gone.&#x000A;&#x000A;Garden&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-187"/>
+    </children>
+  </item>
+  <item nodeId="node-187">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Cottage&#x000A;You are standing at the back of a small, brick-faced cottage. It is flanked on either side by a small brick wall, and you can see a lane on the other side. The door to the cottage is open.&#x000A;&#x000A;There is a garden to the south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-188"/>
+    </children>
+  </item>
+  <item nodeId="node-188">
+    <command xml:space="preserve">look cottage</command>
+    <result xml:space="preserve">It is a small, brick building. Flowering vines climb the corners of the windows. The back door is open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-189"/>
+    </children>
+  </item>
+  <item nodeId="node-189">
+    <command xml:space="preserve">look windows</command>
+    <result xml:space="preserve">They are just empty windows.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-190"/>
+    </children>
+  </item>
+  <item nodeId="node-190">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">Inside the Cottage&#x000A;You are inside the cottage, in the kitchen.&#x000A;&#x000A;You can see a table here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-191"/>
+    </children>
+  </item>
+  <item nodeId="node-191">
+    <command xml:space="preserve">look food</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-192"/>
+    </children>
+  </item>
+  <item nodeId="node-192">
+    <command xml:space="preserve">look people</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-193"/>
+    </children>
+  </item>
+  <item nodeId="node-193">
+    <command xml:space="preserve">ouit</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-194"/>
+    </children>
+  </item>
+  <item nodeId="node-194">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Cottage&#x000A;You are standing at the back of a small, brick-faced cottage. It is flanked on either side by a small brick wall, and you can see a lane on the other side. The door to the cottage is open.&#x000A;&#x000A;There is a garden to the south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-195">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-196"/>
+    </children>
+  </item>
+  <item nodeId="node-196">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-197"/>
+    </children>
+  </item>
+  <item nodeId="node-197">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">A Fourth Idea&#x000A;An Adventure Essay by pladams9&#x000A;Release 1 / Serial number 180422 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;CHAPTER III&#x000A;Three things only have been discovered of that which concerns the inner consciousness since before written history began. Three things only in twelve thousand written, or sculptured, years, and in the dumb, dim time before then. Three ideas the Cavemen primeval wrested from the unknown, the night which is round us still in daylight-the existence of the soul, immortality, the deity. These things found, prayer followed as a sequential result. Since then nothing further has been found in all the twelve thousand years, as if men had been satisfied and had found these to suffice. They do not suffice me. I desire to advance further, and to wrest a fourth, and even still more than a fourth, from the darkness of thought. I want more ideas of soul-life. I am certain that there are more yet to be found.&#x000A;&#x000A;Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-198"/>
+    </children>
+  </item>
+  <item nodeId="node-198">
+    <command xml:space="preserve">look woods</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-199"/>
+    </children>
+  </item>
+  <item nodeId="node-199">
+    <command xml:space="preserve">look hills</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-200"/>
+    </children>
+  </item>
+  <item nodeId="node-200">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Woods&#x000A;For two thousand years brown autumn dwelt in these woods; the rime of winter whitened the beech clump on the ridge; again the buds came on the wind-blown hawthorn bushes, and in the evening the broad constellation of Orion covered the east. The world turns and now summer comes again.&#x000A;&#x000A;You are in a small forest at the foot of the hills.&#x000A;&#x000A;A path here goes east and west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-201"/>
+    </children>
+  </item>
+  <item nodeId="node-201">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Garden&#x000A;It happened once that a man was drowned while bathing, and his body was placed in an outhouse near the garden. I passed the outhouse continually, sometimes on purpose to think about it&#x2026;&#x000A;&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;There is a shovel leaning against the outhouse.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-202"/>
+    </children>
+  </item>
+  <item nodeId="node-202">
+    <command xml:space="preserve">take shovel</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-203"/>
+    </children>
+  </item>
+  <item nodeId="node-203">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Cottage&#x000A;There is so much beyond all that has ever yet been imagined. As I write these words, in the very moment, I feel that the whole air, the sunshine out yonder lighting up the ploughed earth, the distant sky, the circumambient ether, and that far space, is full of soul-secrets, soul-life, things outside the experience of all the ages. The fact of my own existence as I write, as I exist at this second, is so marvellous, so miracle-like, strange, and supernatural to me, that I unhesitatingly conclude I am always on the margin of life illimitable, and that there are higher conditions than existence. Everything around is supernatural; everything so full of unexplained meaning.&#x000A;&#x000A;You are standing at the back of a small, brick-faced cottage. It is flanked on either side by a small brick wall, and you can see a lane on the other side. The door to the cottage is open.&#x000A;&#x000A;There is a garden to the south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-204"/>
+    </children>
+  </item>
+  <item nodeId="node-204">
+    <command xml:space="preserve">go inside</command>
+    <result xml:space="preserve">Inside the Cottage&#x000A;You are inside the cottage, in the kitchen. People in black attire are milling about with finger foods and cups of juice.&#x000A;&#x000A;You can see a table (on which is a key) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-205"/>
+    </children>
+  </item>
+  <item nodeId="node-205">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-206"/>
+    </children>
+  </item>
+  <item nodeId="node-206">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Cottage&#x000A;You are standing at the back of a small, brick-faced cottage. It is flanked on either side by a small brick wall, and you can see a lane on the other side. The door to the cottage is open.&#x000A;&#x000A;There is a garden to the south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-207"/>
+    </children>
+  </item>
+  <item nodeId="node-207">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Garden&#x000A;You are in a small garden, neatly kept. There is an outhouse nearby as well.&#x000A;&#x000A;There is a cottage to the north.&#x000A;There is a path into the woods to the east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-208"/>
+    </children>
+  </item>
+  <item nodeId="node-208">
+    <command xml:space="preserve">unlock door with key</command>
+    <result xml:space="preserve">You unlock the outhouse door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-209"/>
+    </children>
+  </item>
+  <item nodeId="node-209">
+    <command xml:space="preserve">go in</command>
+    <result xml:space="preserve">(first opening the outhouse door)&#x000A;&#x000A;Inside the Outhouse&#x000A;It's an outhouse. The only thing worth noting is the dead body propped up in the corner. The smell is pretty bad, but it's not clear what the source is.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-210"/>
+    </children>
+  </item>
+  <item nodeId="node-210">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">(the key)&#x000A;You gingerly remove the key from the dead man's pocket.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-211"/>
+    </children>
+  </item>
+  <item nodeId="node-211">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Garden&#x000A;As you walk out of the outhouse, several men in suits push past you. They hoist the body of the man up and carry him out to a casket waiting in the garden. You look up and realize that all the people from the house are outside now, watching. The casket is shut and brought up to the men's shoulders. They walk back toward the cottage; everyone else follows. Then they are gone.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-212"/>
+    </children>
+  </item>
+  <item nodeId="node-212">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  the boathouse key&#x000A;  the outhouse key&#x000A;  a shovel&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-213"/>
+    </children>
+  </item>
+  <item nodeId="node-213">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Woods&#x000A;You are in a small forest at the foot of the hills.&#x000A;&#x000A;A path here goes east and west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-214"/>
+    </children>
+  </item>
+  <item nodeId="node-214">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-215"/>
+    </children>
+  </item>
+  <item nodeId="node-215">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hilltop&#x000A;How many words it has taken to describe so briefly the feelings and the thoughts that came to me by the tumulus; thoughts that swept past and were gone, and were succeeded by others while yet the shadow of the mound had not moved from one thyme flower to another, not the breadth of a grass blade. Softly breathed the sweet south wind, gently the yellow corn waved beneath; the ancient, ancient sun shone on the fresh grass and the flower, my heart opened wide as the broad, broad earth. I spread my arms out, laying them on the sward, seizing the grass, to take the fulness of the days. Could I have my own way after death I would be burned on a pyre of pine-wood, open to the air, and placed on the summit of the hills. Then let my ashes be scattered abroad-not collected urn an urn-freely sown wide and broadcast. That is the natural interment of man-of man whose Thought at least has been among the immortals; interment in the elements. Burial is not enough, it does not give sufficient solution into the elements speedily; a furnace is confined. The high open air of the topmost hill, there let the tawny flame lick up the fragment called the body; there cast the ashes into the space it longed for while living. Such a luxury of interment is only for the wealthy; I fear I shall not be able to afford it. Else the smoke of my resolution into the elements should certainly arise in time on the hill-top.&#x000A;&#x000A;You are on top of a tall hill. There is a mass of stripped trees gathered into a funeral pyre at the center of the hilltop.&#x000A;&#x000A;There are paths down the hillsides to the north and southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-216"/>
+    </children>
+  </item>
+  <item nodeId="node-216">
+    <command xml:space="preserve">look pyre</command>
+    <result xml:space="preserve">You see nothing special about the funeral pyre.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-217"/>
+    </children>
+  </item>
+  <item nodeId="node-217">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">Brook&#x000A;I dip my hand in the brook and feel the stream; in an instant the particles of water which first touched me have floated yards down the current, my hand remains there. I take my hand away, and the flow-the time-of the brook does not exist to me. The great clock of the firmament, the sun and the stars, the crescent moon, the earth circling two thousand times, is no more to me than the flow of the brook when my hand is withdrawn; my soul has never been, and never can be, dipped in time.&#x000A;&#x000A;You are next to a brook of water.&#x000A;&#x000A;There are hills both to the north and northwest.&#x000A;To the east, the brook flows down to the seashore.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-218"/>
+    </children>
+  </item>
+  <item nodeId="node-218">
+    <command xml:space="preserve">look brook</command>
+    <result xml:space="preserve">It is a small stream of water, bubbling up from some hidden place among the hills and flowing down to join the greater waters of the sea. Who knows where it will go from there?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-219"/>
+    </children>
+  </item>
+  <item nodeId="node-219">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Seashore&#x000A;The supernatural miscalled, the natural in truth, is the real. To me everything is supernatural. How strange that condition of mind which cannot accept anything but the earth, the sea, the tangible universe! Without the misnamed supernatural these to me seem incomplete, unfinished. Without soul all these are dead. Except when I walk by the sea, and my soul is by it, the sea is dead. Those seas by which no man has stood-which no soul has been-whether on earth or the planets, are dead. No matter how majestic the planet rolls in space, unless a soul be there it is dead.&#x000A;&#x000A;You are standing on a small beach, nestled into an equally small cove. There is a boathouse nearby.&#x000A;&#x000A;A path leads away from the shore to the west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-220"/>
+    </children>
+  </item>
+  <item nodeId="node-220">
+    <command xml:space="preserve">unlock door with key</command>
+    <result xml:space="preserve">Which do you mean, the boathouse key or the outhouse key?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-221"/>
+    </children>
+  </item>
+  <item nodeId="node-221">
+    <command xml:space="preserve">unlock door with boathouse key</command>
+    <result xml:space="preserve">You unlock the boathouse-door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-222"/>
+    </children>
+  </item>
+  <item nodeId="node-222">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Seashore&#x000A;You are standing on a small beach, nestled into an equally small cove. There is a boathouse nearby.&#x000A;&#x000A;A path leads away from the shore to the west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-223"/>
+    </children>
+  </item>
+  <item nodeId="node-223">
+    <command xml:space="preserve">look cove</command>
+    <result xml:space="preserve">The water laps against the shore quietly.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-224"/>
+    </children>
+  </item>
+  <item nodeId="node-224">
+    <command xml:space="preserve">look  cottage</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-225"/>
+    </children>
+  </item>
+  <item nodeId="node-225">
+    <command xml:space="preserve">look house</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-226"/>
+    </children>
+  </item>
+  <item nodeId="node-226">
+    <command xml:space="preserve">look forest</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-227"/>
+    </children>
+  </item>
+  <item nodeId="node-227">
+    <command xml:space="preserve">look cove</command>
+    <result xml:space="preserve">The water laps against the shore quietly.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-228"/>
+    </children>
+  </item>
+  <item nodeId="node-228">
+    <command xml:space="preserve">look boathouse</command>
+    <result xml:space="preserve">It's a boathouse on the edge of the water.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-229"/>
+    </children>
+  </item>
+  <item nodeId="node-229">
+    <command xml:space="preserve">look boathouse door</command>
+    <result xml:space="preserve">It is the door leading into the boathouse. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-230"/>
+    </children>
+  </item>
+  <item nodeId="node-230">
+    <command xml:space="preserve">look door</command>
+    <result xml:space="preserve">It is the door leading into the boathouse. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-231"/>
+    </children>
+  </item>
+  <item nodeId="node-231">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Seashore&#x000A;You are standing on a small beach, nestled into an equally small cove. There is a boathouse nearby.&#x000A;&#x000A;A path leads away from the shore to the west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-232"/>
+    </children>
+  </item>
+  <item nodeId="node-232">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">(first opening the boathouse-door)&#x000A;&#x000A;Inside the Boathouse&#x000A;You are inside the boathouse. There is a small rowboat here.&#x000A;&#x000A;You can see a box of matches here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-233"/>
+    </children>
+  </item>
+  <item nodeId="node-233">
+    <command xml:space="preserve">look matches</command>
+    <result xml:space="preserve">A standard box of matches. There are plenty of matches inside, in decent condition.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-234"/>
+    </children>
+  </item>
+  <item nodeId="node-234">
+    <command xml:space="preserve">take matches</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-235"/>
+    </children>
+  </item>
+  <item nodeId="node-235">
+    <command xml:space="preserve">look boat</command>
+    <result xml:space="preserve">A small rowboat. No way to row it though - it's oars are missing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-236"/>
+    </children>
+  </item>
+  <item nodeId="node-236">
+    <command xml:space="preserve">take boat</command>
+    <result xml:space="preserve">That's hardly portable.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-237"/>
+    </children>
+  </item>
+  <item nodeId="node-237">
+    <command xml:space="preserve">get in boat</command>
+    <result xml:space="preserve">Not right now.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-238"/>
+    </children>
+  </item>
+  <item nodeId="node-238">
+    <command xml:space="preserve">look water</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-239"/>
+    </children>
+  </item>
+  <item nodeId="node-239">
+    <command xml:space="preserve">look floor</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-240"/>
+    </children>
+  </item>
+  <item nodeId="node-240">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">Seashore&#x000A;You are standing on a small beach, nestled into an equally small cove. There is a boathouse nearby.&#x000A;&#x000A;A path leads away from the shore to the west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-241"/>
+    </children>
+  </item>
+  <item nodeId="node-241">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-242"/>
+    </children>
+  </item>
+  <item nodeId="node-242">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Brook&#x000A;You are next to a brook of water.&#x000A;&#x000A;There are hills both to the north and northwest.&#x000A;To the east, the brook flows down to the seashore.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-243"/>
+    </children>
+  </item>
+  <item nodeId="node-243">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on top of a tall hill. There is a mass of stripped trees gathered into a funeral pyre at the center of the hilltop.&#x000A;&#x000A;There are paths down the hillsides to the north and southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-244"/>
+    </children>
+  </item>
+  <item nodeId="node-244">
+    <command xml:space="preserve">light</command>
+    <result xml:space="preserve">What do you want to light?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-245"/>
+    </children>
+  </item>
+  <item nodeId="node-245">
+    <command xml:space="preserve">light pyre</command>
+    <result xml:space="preserve">You've got some matches, but you'll need some tinder. Something that burns easily.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-246"/>
+    </children>
+  </item>
+  <item nodeId="node-246">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-247"/>
+    </children>
+  </item>
+  <item nodeId="node-247">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hilltop&#x000A;There were grass-grown tumuli on the hills to which of old I used to walk, sit down at the foot of one of them, and think. Some warrior had been interred there in the antehistoric times. The sun of the summer morning shone on the dome of sward, and the air came softly up from the wheat below, the tips of the grasses swayed as it passed sighing faintly, it ceased, and the bees hummed by to the thyme and heathbells. I became absorbed in the glory of the day, the sunshine, the sweet air, the yellowing corn turning from its sappy green to summer's noon of gold, the lark's song like a waterfall in the sky. I felt at that moment that I was like the spirit of the man whose body was interred in the tumulus; I could understand and feel his existence the same as my own. He was as real to me two thousand years after interment as those I had seen in the body. The abstract personality of the dead seemed as existent as thought. As my thought could slip back the twenty centuries in a moment to the forest-days when he hurled the spear, or shot with the bow, hunting the deer, and could return again as swiftly to this moment, so his spirit could endure from then till now, and the time was nothing.&#x000A;&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-248"/>
+    </children>
+  </item>
+  <item nodeId="node-248">
+    <command xml:space="preserve">dig into mound</command>
+    <result xml:space="preserve">You dig into the burial mound, and soon there is an opening leading inside.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-249"/>
+    </children>
+  </item>
+  <item nodeId="node-249">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;&#x000A;Inside the Tumulus&#x000A;There is no separation-no past; eternity, the Now, is continuous. When all the stars have revolved they only produce Now again. The continuity of Now is for ever. So that it appears to me purely natural, and not super natural, that the soul whose temporary frame was interred in this mound should be existing as I sit on the sward. How infinitely deeper is thought than the million miles of the firmament! The wonder is here, not there; now, not to be, now always. Things that have been miscalled supernatural appear to me simple, more natural than nature, than earth, than sea, or sun. It is beyond telling more natural that I should have a soul than not, that there should be immortality; I think there is much more than immortality. It is matter which is the supernatural, and difficult of under-standing. Why this clod of earth I hold in my hand? Why this water which drops sparkling from my fingers dipped in the brook? Why are they at all? When? How? What for? Matter is beyond understanding, mysterious, impenetrable; I touch it easily, comprehend it, no. Soul, mind-the thought, the idea-is easily understood, it understands itself and is conscious.&#x000A;&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton and a scrap of paper here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-250"/>
+    </children>
+  </item>
+  <item nodeId="node-250">
+    <command xml:space="preserve">take paper</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-251"/>
+    </children>
+  </item>
+  <item nodeId="node-251">
+    <command xml:space="preserve">read paper</command>
+    <result xml:space="preserve">It is a piece of paper. On it is written:&#x000A;&#x000A;The silky grass sighs as the wind comes carrying the blue butterfly more rapidly than his wings. A large humble-bee burrs round the green dome against which I rest; my hands are scented with thyme. The sweetness of the day, the fulness of the earth, the beauteous earth, how shall I say it?&#x000A;&#x000A;That there is no knowing, in the sense of written reasons, whether the soul lives on or not, I am fully aware. I do not hope or fear. At least while I am living I have enjoyed the idea of immortality, and the idea of my own soul. If then, after death, I am resolved without exception into earth, air, and water, and the spirit goes out like a flame, still I shall have had the glory of that thought.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-252"/>
+    </children>
+  </item>
+  <item nodeId="node-252">
+    <command xml:space="preserve">take skeleton</command>
+    <result xml:space="preserve">Leave him be - better that he continue here toward dissolution.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-253"/>
+    </children>
+  </item>
+  <item nodeId="node-253">
+    <command xml:space="preserve">look skeleton</command>
+    <result xml:space="preserve">Two thousand years being a second to the soul could not cause its extinction. It was no longer to the soul than my thought occupied to me. Recognising my own inner consciousness, the psyche, so clearly, death did not seem to me to affect the personality. In dissolution there was no bridgeless chasm, no unfathomable gulf of separation; the spirit did not immediately become inaccessible, leaping at a bound to an immeasurable distance. Look at another person while living; the soul is not visible, only the body which it animates. Therefore, merely because after death the soul is not visible is no demonstration that it does not still live. The condition of being unseen is the same condition which occurs while the body is living, so that intrinsically there is nothing exceptionable, or supernatural, in the life of the soul after death. Resting by the tumulus, the spirit of the man who had been interred there was to me really alive, and very close. This was quite natural, as natural and simple as the grass waving in the wind, the bees humming, and the larks" songs. Only by the strongest effort of the mind could I understand the idea of extinction; that was supernatural, requiring a miracle; the immortality of the soul natural, like earth. Listening to the sighing of the grass I felt immortality as I felt the beauty of the summer morning, and I thought beyond immortality, of other conditions, more beautiful than existence, higher than immortality.&#x000A;&#x000A;It is the skeleton of a long-dead warrior, buried within this tumulus - his body's final home.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-254"/>
+    </children>
+  </item>
+  <item nodeId="node-254">
+    <command xml:space="preserve">look skeleton</command>
+    <result xml:space="preserve">It is the skeleton of a long-dead warrior, buried within this tumulus - his body's final home.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-255"/>
+    </children>
+  </item>
+  <item nodeId="node-255">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-256"/>
+    </children>
+  </item>
+  <item nodeId="node-256">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-257"/>
+    </children>
+  </item>
+  <item nodeId="node-257">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-258"/>
+    </children>
+  </item>
+  <item nodeId="node-258">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on top of a tall hill. There is a mass of stripped trees gathered into a funeral pyre at the center of the hilltop.&#x000A;&#x000A;There are paths down the hillsides to the north and southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-259"/>
+    </children>
+  </item>
+  <item nodeId="node-259">
+    <command xml:space="preserve">light pyre</command>
+    <result xml:space="preserve">You set fire to the scrap of paper and watch as the flames of the pyre lick into the air. When it is done, something glints from the pile of ashes.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-260"/>
+    </children>
+  </item>
+  <item nodeId="node-260">
+    <command xml:space="preserve">look ashes</command>
+    <result xml:space="preserve">In the pile of ashes are a white orb and a black orb.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-261"/>
+    </children>
+  </item>
+  <item nodeId="node-261">
+    <command xml:space="preserve">look pyre</command>
+    <result xml:space="preserve">In the pile of ashes are a white orb and a black orb.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-262"/>
+    </children>
+  </item>
+  <item nodeId="node-262">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on top of a tall hill. There is a large pile of ashes at the center of the hilltop.&#x000A;&#x000A;There are paths down the hillsides to the north and southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-263"/>
+    </children>
+  </item>
+  <item nodeId="node-263">
+    <command xml:space="preserve">look in pyre</command>
+    <result xml:space="preserve">In the pile of ashes are a white orb and a black orb.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-264"/>
+    </children>
+  </item>
+  <item nodeId="node-264">
+    <command xml:space="preserve">look ashes</command>
+    <result xml:space="preserve">In the pile of ashes are a white orb and a black orb.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-265"/>
+      <child nodeId="node-283"/>
+    </children>
+  </item>
+  <item nodeId="node-265">
+    <command xml:space="preserve">take black orb</command>
+    <result xml:space="preserve">As you reach for the black orb, the white one glows and then dissolves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-266"/>
+    </children>
+  </item>
+  <item nodeId="node-266">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on top of a tall hill. There is a large pile of ashes at the center of the hilltop.&#x000A;&#x000A;There are paths down the hillsides to the north and southeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-267"/>
+    </children>
+  </item>
+  <item nodeId="node-267">
+    <command xml:space="preserve">look ashes</command>
+    <result xml:space="preserve">The pile of ashes is empty.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-268"/>
+    </children>
+  </item>
+  <item nodeId="node-268">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-269"/>
+    </children>
+  </item>
+  <item nodeId="node-269">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-270"/>
+    </children>
+  </item>
+  <item nodeId="node-270">
+    <command xml:space="preserve">go into hole</command>
+    <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;&#x000A;Inside the Tumulus&#x000A;Upon entering the burial mound, you are overcome with a connection to the ancient warrior and with a sense of the meaningless of time. The black orb pulses; you feel yourself freed from the restraints of the present and transported...&#x000A;&#x000A;Ancient Hilltop&#x000A;Realising that spirit, recognising my own inner consciousness, the psyche, so clearly, I cannot understand time. It is eternity now. I am in the midst of it. It is about me in the sunshine; I am in it, as the butterfly floats in the light-laden air. Nothing has to come; it is now. Now is eternity; now is the immortal life. Here this moment, by this tumulus, on earth, now; I exist in it. The years, the centuries, the cycles are absolutely nothing; it is only a moment since this tumulus was raised; in a thousand years it will still be only a moment. To the soul there is no past and no future; all is and will be ever, in now. For artificial purposes time is mutually agreed on, but is really no such thing. The shadow goes on upon the dial, the index moves round upon the clock, and what is the difference? None whatever. If the clock had never been set going, what would have been the difference? There may be time for the clock, the clock may make time for itself; there is none for me.&#x000A;&#x000A;You seem to have lost all your possessions - the black orb being the only exception.&#x000A;&#x000A;You are on a hilltop nearly identical to the one which held the tumulus, but there is nothing here but grass and, surrounding the hill, forest.&#x000A;&#x000A;A path to the east leads down into the forest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-271"/>
+      <child nodeId="node-274"/>
+    </children>
+  </item>
+  <item nodeId="node-271">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a black orb&#x000A;  a box of matches&#x000A;  the boathouse key&#x000A;  the outhouse key&#x000A;  a shovel&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-272"/>
+    </children>
+  </item>
+  <item nodeId="node-272">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-273"/>
+    </children>
+  </item>
+  <item nodeId="node-273">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;&#x000A;Inside the Tumulus&#x000A;Upon entering the burial mound, you are overcome with a connection to the ancient warrior and with a sense of the meaningless of time. The black orb pulses; you feel yourself freed from the restraints of the present and transported...&#x000A;&#x000A;Realising that spirit, recognising my own inner consciousness, the psyche, so clearly, I cannot understand time. It is eternity now. I am in the midst of it. It is about me in the sunshine; I am in it, as the butterfly floats in the light-laden air. Nothing has to come; it is now. Now is eternity; now is the immortal life. Here this moment, by this tumulus, on earth, now; I exist in it. The years, the centuries, the cycles are absolutely nothing; it is only a moment since this tumulus was raised; in a thousand years it will still be only a moment. To the soul there is no past and no future; all is and will be ever, in now. For artificial purposes time is mutually agreed on, but is really no such thing. The shadow goes on upon the dial, the index moves round upon the clock, and what is the difference? None whatever. If the clock had never been set going, what would have been the difference? There may be time for the clock, the clock may make time for itself; there is none for me.&#x000A;&#x000A;Ancient Hilltop&#x000A;There is so much beyond all that has ever yet been imagined. As I write these words, in the very moment, I feel that the whole air, the sunshine out yonder lighting up the ploughed earth, the distant sky, the circumambient ether, and that far space, is full of soul-secrets, soul-life, things outside the experience of all the ages. The fact of my own existence as I write, as I exist at this second, is so marvellous, so miracle-like, strange, and supernatural to me, that I unhesitatingly conclude I am always on the margin of life illimitable, and that there are higher conditions than existence. Everything around is supernatural; everything so full of unexplained meaning.&#x000A;&#x000A;You are on a hilltop nearly identical to the one which held the tumulus, but there is nothing here but grass and, surrounding the hill, forest.&#x000A;&#x000A;A path to the east leads down into the forest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-274">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Ancient Forest&#x000A;When I consider that I dwell this moment in the eternal Now that has ever been and will be, that I am in the midst of immortal things this moment, that there probably are Souls as infinitely superior to mine as mine to a piece of timber, what then, pray, is a "miracle"? As commonly understood, a "miracle" is a mere nothing. I can conceive soul-works done by simple will or thought a thousand times greater. I marvel that they do not happen this moment. The air, the sunlight, the night, all that surrounds me seems crowded with inexpressible powers, with the influence of Souls, or existences, so that I walk in the midst of immortal things. I myself am a living witness of it. Sometimes I have concentrated myself, and driven away by continued will all sense of outward appearances, looking straight with the full power of my mind inwards on myself. I find "I" am there; an "I" I do not wholly understand, or know-something is there distinct from earth and timber, from flesh and bones. Recognising it, I feel on the margin of a life unknown, very near, almost touching it: on the verge of powers which if I could grasp would give me an immense breadth of existence, an ability to execute what I now only conceive; most probably of far more than that. To see that "I" is to know that I am surrounded with immortal things. If, when I die, that "I" also dies, and becomes extinct, still even then I have had the exaltation of these ideas.&#x000A;&#x000A;You are standing in a forest. It appears to be completely unblemished by man.&#x000A;&#x000A;A path leads to the west and east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-275"/>
+    </children>
+  </item>
+  <item nodeId="node-275">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">The path quickly disappears among the overgrowth, and you find yourself racing through the forest blindly. Then you see the light of a clearing up ahead. You burst out into the open, sure that you will not be able to find your way back through the forest.&#x000A;&#x000A;Ancient Cave&#x000A;Twelve thousand years since the Caveman stood at the mouth of his cavern and gazed out at the night and the stars. He looked again and saw the sun rise beyond the sea. He reposed in the noontide heat under the shade of the trees, he closed his eyes and looked into himself. He was face to face with the earth, the sun, the night; face to face with himself.&#x000A;&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-276"/>
+    </children>
+  </item>
+  <item nodeId="node-276">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;There was nothing between; no wall of written tradition; no built up system of culture-his naked mind was confronted by naked earth. He made three idea-discoveries, wresting them from the unknown; the existence of his soul, immortality, the deity. Now, to-day, as I write, I stand in exactly the same position as the Caveman. Written tradition, systems of culture, modes of thought, have for me no existence. If ever they took any hold of my mind it must have been very slight; they have long ago been erased.&#x000A;&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-277"/>
+    </children>
+  </item>
+  <item nodeId="node-277">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a black orb&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-278"/>
+    </children>
+  </item>
+  <item nodeId="node-278">
+    <command xml:space="preserve">drop orb</command>
+    <result xml:space="preserve">You feel compelled to keep it.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-279"/>
+    </children>
+  </item>
+  <item nodeId="node-279">
+    <command xml:space="preserve">drop orb in fire</command>
+    <result xml:space="preserve">You drop the orb into the fire. It carries with it the last of whatever Self you possess and whatever attachments possess you. You are naked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-280"/>
+    </children>
+  </item>
+  <item nodeId="node-280">
+    <command xml:space="preserve">put orb in fire</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-281"/>
+    </children>
+  </item>
+  <item nodeId="node-281">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-282"/>
+    </children>
+  </item>
+  <item nodeId="node-282">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">You step out of the mouth of the cave...&#x000A;&#x000A;From earth and sea and sun, from night, the stars, from day, the trees, the hills, from my own soul-from these I think. I stand this moment at the mouth of the ancient cave, face to face with nature, face to face with the supernatural, with myself. My naked mind confronts the unknown. I see as clearly as the noonday that this is not all; I see other and higher conditions than existence; I see not only the existence of the soul, immortality, but, in addition, I realise a soul-life illimitable; I realise the existence of a cosmos of thought; I realise the existence of an inexpressible entity infinitely higher than deity. I strive to give utterance to a Fourth Idea. The very idea that there is another idea is something gained. The three found by the Cavemen are but stepping-stones: first links of an endless chain. At the mouth of the ancient cave, face to face with the unknown, they prayed. Prone in heart to-day I pray, Give me the deepest soul-life.&#x000A;&#x000A;&#x000A;&#x000A;    *** IT IS COMPLETE. ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-283">
+    <command xml:space="preserve">take white orb</command>
+    <result xml:space="preserve">As you reach for the white orb, the black one fades into nothingness.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-284"/>
+    </children>
+  </item>
+  <item nodeId="node-284">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hills&#x000A;You are in a landscape of rolling green hills.&#x000A;&#x000A;Some woods are to the west.&#x000A;There are hilltops to the east and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-285"/>
+    </children>
+  </item>
+  <item nodeId="node-285">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-286"/>
+    </children>
+  </item>
+  <item nodeId="node-286">
+    <command xml:space="preserve">go into hole</command>
+    <result xml:space="preserve">You crawl into the hole in the side of the burial mound.&#x000A;&#x000A;Inside the Tumulus&#x000A;You are inside of the hilltop burial mound.&#x000A;&#x000A;There is a hole in the wall of the mound letting in light and air from the outside.&#x000A;&#x000A;You can see a skeleton here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-287"/>
+    </children>
+  </item>
+  <item nodeId="node-287">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">Hilltop&#x000A;You are on a hilltop inhabited only by an ancient warrior in his burial mound.&#x000A;&#x000A;A small wood can be seen in the distance to the west.&#x000A;A brook lies down the hill to the south.&#x000A;There is a hole leading into the burial mound.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-288"/>
+    </children>
+  </item>
+  <item nodeId="node-288">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Brook&#x000A;You are next to a brook of water.&#x000A;&#x000A;There are hills both to the north and northwest.&#x000A;To the east, the brook flows down to the seashore.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-289"/>
+    </children>
+  </item>
+  <item nodeId="node-289">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Seashore&#x000A;You are standing on a small beach, nestled into an equally small cove. There is a boathouse nearby.&#x000A;&#x000A;A path leads away from the shore to the west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-290"/>
+    </children>
+  </item>
+  <item nodeId="node-290">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-291"/>
+    </children>
+  </item>
+  <item nodeId="node-291">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">Inside the Boathouse&#x000A;You enter the boathouse. Here within earshot of the ocean waves, you feel the layers of Self begin to fall away, as if you were beginning to dissolve into the salt air. A mild tone begins to emanate from the white orb, and you feel a peace come over you. You step into the boat and push out into the water, leaving everything but the orb behind.&#x000A;&#x000A;Ocean of Mind&#x000A;There is an immense ocean over which the mind can sail, upon which the vessel of thought has not yet been launched. I hope to launch it. The mind of so many thousand years has worked round and round inside the circle of these three ideas as a boat on an inland lake. Let us haul it over the belt of land, launch on the ocean, and sail outwards.&#x000A;&#x000A;You are floating in a boat in a vast ocean. The waves rock gently.&#x000A;&#x000A;You have no oars, so there is no place to go. You can do nothing but wait.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-292"/>
+    </children>
+  </item>
+  <item nodeId="node-292">
+    <command xml:space="preserve">look oars</command>
+    <result xml:space="preserve">You don't have any! There weren't ever any to begin with! How do you think that guy died?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-293"/>
+    </children>
+  </item>
+  <item nodeId="node-293">
+    <command xml:space="preserve">look water</command>
+    <result xml:space="preserve">The waves are surprisingly small, but that doesn't make you feel safe.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-294"/>
+    </children>
+  </item>
+  <item nodeId="node-294">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">As I move about in the sunshine I feel in the midst of the supernatural: in the midst of immortal things. It is impossible to wrest the mind down to the same laws that rule pieces of timber, water, or earth. They do not control the soul, however rigidly they may bind matter. So full am I always of a sense of the immortality now at this moment round about me, that it would not surprise me in the least if a circumstance outside physical experience occurred. It would seem to me quite natural. Give the soul the power it conceives, and there would be nothing wonderful in it.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-295"/>
+    </children>
+  </item>
+  <item nodeId="node-295">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">I can see nothing astonishing in what are called miracles. Only those who are mesmerised by matter can find a difficulty in such events. I am aware that the evidence for miracles is logically and historically untrustworthy; I am not defending recorded miracles. My point is that in principle I see no reason at all why they should not take place this day. I do not even say that there are or ever have been miracles, but I maintain that they would be perfectly natural. The wonder rather is that they do not happen frequently. Consider the limitless conceptions of the soul: let it possess but the power to realise those conceptions for one hour, and how little, how trifling would be the helping of the injured or the sick to regain health and happiness-merely to think it. A soul-work would require but a thought. Soul-work is an expression better suited to my meaning than "miracle," a term like others into which a special sense has been infused.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-296"/>
+    </children>
+  </item>
+  <item nodeId="node-296">
+    <command xml:space="preserve">wait</command>
+    <result xml:space="preserve">Time and Self seem to slip away, and when they seem almost to be gone, a strip of land looms before you. Your boat washes gently to shore.&#x000A;&#x000A;Eternity's Shore&#x000A;Time has never existed, and never will; it is a purely artificial arrangement. It is eternity now, it always was eternity, and always will be. By no possible means could I get into time if I tried. I am in eternity now and must there remain. Haste not, be at rest, this Now is eternity. Because the idea of time has left my mind-if ever it had any hold on it-to me the man interred in the tumulus is living now as I live. We are both in eternity.&#x000A;&#x000A;You are on a beach of white stones surrounded by forest.&#x000A;&#x000A;There is a path into the forest to the north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-297"/>
+    </children>
+  </item>
+  <item nodeId="node-297">
+    <command xml:space="preserve">look stones</command>
+    <result xml:space="preserve">The stones that cover the beach look like white quartz. Each is angular but not sharp, and they range from the size of your fist to the size of your head.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-298"/>
+    </children>
+  </item>
+  <item nodeId="node-298">
+    <command xml:space="preserve">look shore</command>
+    <result xml:space="preserve">The stones that cover the beach look like white quartz. Each is angular but not sharp, and they range from the size of your fist to the size of your head.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-299"/>
+    </children>
+  </item>
+  <item nodeId="node-299">
+    <command xml:space="preserve">look forest</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-300"/>
+    </children>
+  </item>
+  <item nodeId="node-300">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">The path quickly disappears among the overgrowth, and you find yourself racing through the forest blindly. Then you see the light of a clearing up ahead. You burst out into the open, sure that you will not be able to find your way back through the forest.&#x000A;&#x000A;Ancient Cave&#x000A;Twelve thousand years since the Caveman stood at the mouth of his cavern and gazed out at the night and the stars. He looked again and saw the sun rise beyond the sea. He reposed in the noontide heat under the shade of the trees, he closed his eyes and looked into himself. He was face to face with the earth, the sun, the night; face to face with himself.&#x000A;&#x000A;You are standing outside a cave.&#x000A;&#x000A;The forest is inpenetrable in all directions. The cave mouth is the only way you see to go.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-301"/>
+    </children>
+  </item>
+  <item nodeId="node-301">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">Inside the Cave&#x000A;There was nothing between; no wall of written tradition; no built up system of culture-his naked mind was confronted by naked earth. He made three idea-discoveries, wresting them from the unknown; the existence of his soul, immortality, the deity. Now, to-day, as I write, I stand in exactly the same position as the Caveman. Written tradition, systems of culture, modes of thought, have for me no existence. If ever they took any hold of my mind it must have been very slight; they have long ago been erased.&#x000A;&#x000A;You are standing inside a cave. There is a fire going here, just inside the cave mouth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-302"/>
+    </children>
+  </item>
+  <item nodeId="node-302">
+    <command xml:space="preserve">look fire</command>
+    <result xml:space="preserve">It is a small campfire, well built. You try to remember starting it but can't. You must have though - you're the only one here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-303"/>
+    </children>
+  </item>
+  <item nodeId="node-303">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a white orb&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-304"/>
+    </children>
+  </item>
+  <item nodeId="node-304">
+    <command xml:space="preserve">put orb in fire</command>
+    <result xml:space="preserve">You drop the orb into the fire. It carries with it the last of whatever Self you possess and whatever attachments possess you. You are naked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-305"/>
+    </children>
+  </item>
+  <item nodeId="node-305">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-306"/>
+    </children>
+  </item>
+  <item nodeId="node-306">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">You step out of the mouth of the cave...&#x000A;&#x000A;From earth and sea and sun, from night, the stars, from day, the trees, the hills, from my own soul-from these I think. I stand this moment at the mouth of the ancient cave, face to face with nature, face to face with the supernatural, with myself. My naked mind confronts the unknown. I see as clearly as the noonday that this is not all; I see other and higher conditions than existence; I see not only the existence of the soul, immortality, but, in addition, I realise a soul-life illimitable; I realise the existence of a cosmos of thought; I realise the existence of an inexpressible entity infinitely higher than deity. I strive to give utterance to a Fourth Idea. The very idea that there is another idea is something gained. The three found by the Cavemen are but stepping-stones: first links of an endless chain. At the mouth of the ancient cave, face to face with the unknown, they prayed. Prone in heart to-day I pray, Give me the deepest soul-life.&#x000A;&#x000A;&#x000A;&#x000A;    *** IT IS COMPLETE. ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
   </item>
